@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 
 
 int  myage = 23;
@@ -32,7 +32,7 @@ Console.WriteLine(asi);
 
 int ko = 65;
 double koi = (double)ko;
-Console.WriteLine(koi); */
+Console.WriteLine(koi); 
 
 
 int ko = 89;
